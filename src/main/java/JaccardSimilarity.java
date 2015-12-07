@@ -3,6 +3,7 @@ import java.util.*;
 
 /**
  * Created by Apratim Mishra on 5/20/15.
+ * Compute Jaccard Similarity of two sets
  */
 public class JaccardSimilarity {
 
